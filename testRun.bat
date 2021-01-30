@@ -1,0 +1,1 @@
+START cmd.exe /k "npm --prefix ../ImmoApp run web"

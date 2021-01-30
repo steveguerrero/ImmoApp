@@ -1,0 +1,8 @@
+example path:
+cd C:\Apps\ImmoApp
+
+Command: 
+npm run web
+
+Command with path
+npm --prefix ../ImmoApp run web
