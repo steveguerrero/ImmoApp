@@ -4,7 +4,7 @@
   "expo": {
     "name": "ImmoApp",
     "slug": "ImmoApp",
-    "version": "1.0.0",
+    "version": "0.0.9",
     "assetBundlePatterns": [
       "**/*"
     ]
