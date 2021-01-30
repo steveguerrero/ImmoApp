@@ -1,0 +1,12 @@
+{
+  "name": "ImmoApp",
+  "displayName": "ImmoApp",
+  "expo": {
+    "name": "ImmoApp",
+    "slug": "ImmoApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
